@@ -1,5 +1,5 @@
 {
-    "name": "fabyo/wkhtmltopdf-image-amd64",
+    "name": "fabyo/wkhtmltopdf-image-64",
     "description": "Convert html to pdf/image using webkit (qtwebkit). Static linked windows/linux binary for amd64 systems.",
     "keywords": ["pdf", "image", "thumbnail", "snapshot", "wkhtmltopdf", "wkhtmltoimage", "convert", "binary"],
     "license": "MIT",
@@ -18,8 +18,6 @@
         "bin/wkhtmltopdf.exe",
         "bin/wkhtmltox.dll"
     ],
-    "require": {
-    },
     "autoload": {
         "psr-4": {
             "fabyo\\WKHTMLToPDFIMAGE\\": ""
