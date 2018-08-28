@@ -10,7 +10,7 @@
             "email": "fabyo.php@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "bin": [
         "bin/wkhtmltopdf-amd64",
 		"bin/wkhtmltoimage-amd64",
